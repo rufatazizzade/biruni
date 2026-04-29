@@ -461,15 +461,15 @@ h2.slide-title {
 .split {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 2.5rem;
-  max-width: 1050px;
+  gap: 2rem;
+  max-width: 950px;
   width: 100%;
-  margin-top: 2rem;
+  margin-top: 1.5rem;
   align-items: stretch;
 }
 
 .split-col {
-  padding: 2.2rem 2rem;
+  padding: 1.4rem 1.6rem;
   border-radius: 18px;
 }
 
@@ -502,9 +502,9 @@ h2.slide-title {
 
 .split-col h3 {
   font-family: var(--display);
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   font-weight: 700;
-  margin-bottom: .8rem;
+  margin-bottom: .6rem;
 }
 
 .prod-list {
@@ -518,7 +518,7 @@ h2.slide-title {
   display: flex;
   align-items: center;
   gap: .6rem;
-  font-size: 1.05rem;
+  font-size: 1rem;
   font-weight: 500;
 }
 
